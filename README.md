@@ -324,7 +324,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>💉 VaxCare</h1>
+            <h1>💉 VaxTrack</h1>
             <p>Your trusted companion for vaccine management and child health</p>
         </header>
 
